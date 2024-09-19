@@ -1,13 +1,13 @@
 [
   {
     "Name": "One Piece",
-    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/op.jpg",
-    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/op.jpg"
+    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/OnePiece/icon.jpg",
+    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/OnePiece/background.jpg"
   },
   {
     "Name": "Fortnite",
-    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/fortnite.png",
-    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/fortnite.png"
+    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Fortnite/icon.png",
+    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Fortnite/background.png"
   },
   {
     "Name": "Game 3",
