@@ -14,7 +14,7 @@
   {
     "Name": "After School",
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/AfterSchool/icon.png",
-    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/AfterSchool/background.jpg?raw=true"
+    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/AfterSchool/background.jpg?raw=true",
     "IsAvailable": true
   }
 ]
