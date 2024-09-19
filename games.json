@@ -2,16 +2,19 @@
   {
     "Name": "One Piece",
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/OnePiece/icon.jpg",
-    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/OnePiece/background.jpg"
+    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/OnePiece/background.jpg",
+    "IsAvailable": false
   },
   {
     "Name": "Fortnite",
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Fortnite/icon.png",
-    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Fortnite/background.png"
+    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Fortnite/background.png",
+    "IsAvailable": true
   },
   {
     "Name": "After School",
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/AfterSchool/icon.png",
     "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/AfterSchool/background.jpg?raw=true"
+    "IsAvailable": true
   }
 ]
