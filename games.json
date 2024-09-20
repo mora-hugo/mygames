@@ -3,20 +3,27 @@
     "Name": "After School",
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/AfterSchool/icon.png",
     "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/AfterSchool/background.jpg?raw=true",
-    "GamePath" : "https://1drv.ms/u/c/a370dea849f405c4/EXKuYbcxNO1MiJEacngxskEBpX0Cua6DIdKt4wrpbsvXew?e=1UnwlA&download=1",
+    "GamePath" : "https://www.dropbox.com/s/hitqvi8hjce4yiaoh4jn4/After-School.zip?dl=1",
     "IsAvailable": true
   },
   {
     "Name": "PotatoJam",
-    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Fortnite/icon.png",
-    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Fortnite/background.png",
+    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/PotatoJam/icon.png",
+    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/PotatoJam/background.png",
+    "GamePath" : "https://www.dropbox.com/s/ewgs651fbpd0d5v7seazs/PotatoJam.zip?dl=1",
     "IsAvailable": true
   },
   {
-    "Name": "After School",
-    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/AfterSchool/icon.png",
-    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/AfterSchool/background.jpg?raw=true",
-    "GamePath" : "https://1drv.ms/u/c/a370dea849f405c4/EXKuYbcxNO1MiJEacngxskEBpX0Cua6DIdKt4wrpbsvXew?e=1UnwlA&download=1",
+    "Name": "Whammer",
+    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Whammer/icon.png",
+    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/Whammer/background.png?raw=true",
+    "GamePath" : "https://www.dropbox.com/s/63zf48vvgtenjdm98qbmz/Whammer.zip?dl=1",
     "IsAvailable": true
+  },
+  {
+    "Name": "Klems The Beginning",
+    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/KlemsTheBeginning/icon.png",
+    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/KlemsTheBeginning/background.png?raw=true",
+    "IsAvailable": false
   }
 ]
