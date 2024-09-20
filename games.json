@@ -16,14 +16,14 @@
   {
     "Name": "Whammer",
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Whammer/icon.png",
-    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/Whammer/background.jpg?raw=true",
+    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/Whammer/background.png?raw=true",
     "GamePath" : "https://www.dropbox.com/s/63zf48vvgtenjdm98qbmz/Whammer.zip?dl=1",
     "IsAvailable": true
   },
   {
     "Name": "Klems The Beginning",
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/KlemsTheBeginning/icon.png",
-    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/KlemsTheBeginning/background.jpg?raw=true",
+    "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/KlemsTheBeginning/background.png?raw=true",
     "IsAvailable": false
   }
 ]
