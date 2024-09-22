@@ -32,5 +32,17 @@
     "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/KlemsTheBeginning/icon.png",
     "ImagePath": "https://github.com/mora-hugo/mygames/blob/main/Images/KlemsTheBeginning/background.png?raw=true",
     "IsAvailable": false
+  },
+  {
+    "Name": "Klems",
+    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Klems/icon.png",
+    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Klems/background.png",
+    "IsAvailable": false
+  },
+  {
+    "Name": "Bankrupt",
+    "IconPath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Bankrupt/icon.png",
+    "ImagePath": "https://raw.githubusercontent.com/mora-hugo/mygames/main/Images/Bankrupt/background.png",
+    "IsAvailable": false
   }
 ]
